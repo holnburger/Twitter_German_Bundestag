@@ -11,3 +11,5 @@ Von den 709 Abgeordneten besitzen 509 einen Twitteraccount. In der CSV Datei fin
 
 Die Daten wurden über die Liste von Martin Fuchs (@wahlbeobachter) erstellt. Link: https://twitter.com/wahl_beobachter/lists/mdb-bundestag
 Stand: 08. Mai 2018
+
+Es fehlen die beiden fraktionslosen Abgeordneten Mario Mieruch (@mieruchmario) und Frauke Petry (@FraukePetry). Aus Gründen.
